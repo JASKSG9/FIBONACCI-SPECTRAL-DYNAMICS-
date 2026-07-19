@@ -1,0 +1,25 @@
+{
+  "system": "Fibonacci_mod100",
+  "state_space": 10000,
+  "cycle_structure": {
+    "number_of_cycles": 76,
+    "attractor_sizes": "varied"
+  },
+  "transient_geometry": {
+    "height": 0,
+    "levels": [
+      10000
+    ]
+  },
+  "compression": {
+    "quotient_size": 10000,
+    "ratio": 1.0
+  },
+  "classification": [
+    "FINITE",
+    "PURE_PERIODIC",
+    "ZERO_DEPTH",
+    "LOW_COMPRESSION",
+    "EXACT_QUOTIENT"
+  ]
+}
